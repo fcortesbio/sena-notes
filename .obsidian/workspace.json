@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "27cb2388b8311404",
@@ -185,7 +186,7 @@
   },
   "active": "255dc40465b77ee0",
   "lastOpenFiles": [
-    "README.md",
-    "02-18-2026 - Introducción a Fase de Análisis.md"
+    "02-18-2026 - Introducción a Fase de Análisis.md",
+    "README.md"
   ]
 }
