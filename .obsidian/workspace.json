@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing template.md",
+                "file": "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-1-analisis/evidencias/Análisis de procesos/Mapa de procesos/Diagramas de flujo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testing template"
+              "title": "Diagramas de flujo"
             }
           }
         ]
@@ -183,21 +183,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "6a740376e4283479",
+  "active": "255dc40465b77ee0",
   "lastOpenFiles": [
-    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-1-analisis/notas/02-18-2026 - Introducción a Fase de Análisis.md",
-    "testing template.md",
-    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-1-analisis/Untitled",
-    "testing-canvas.canvas",
-    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-4-evaluacion",
-    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-3-ejecucion",
+    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-1-analisis/evidencias/Diagrama Relaciones Externas.md",
+    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-1-analisis/evidencias/Análisis de procesos/Mapa de procesos/Diagramas de flujo.md",
+    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-1-analisis/evidencias/Análisis de procesos/Mapa de procesos",
+    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-1-analisis/evidencias/Análisis de procesos",
+    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-1-analisis/evidencias/Diagrama de Relaciones Internas.md",
+    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-1-analisis/evidencias/Infografía sobre la teoría general de sistemas. GA1-220501092-AA1-EV01..pdf",
+    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-1-analisis/notas/Preguntas TGS.md",
+    "Recursos/Kenneth E. Kendall, Julie E. Kendall - Systems Analysis and Design Global Ed (2020, Pearson) - libgen.li-1.pdf",
+    "Recursos/Complexity - 2002 - Corning - The re‐emergence of emergence A venerable concept in search of a theory.pdf",
+    "Recursos/Mark Richards - Fundamentals of Software Architecture.pdf",
+    "Recursos/Gharajedaghi, Jamshid - Systems Thinking (2011, Morgan Kaufmann) - libgen.li.pdf",
+    "Recursos/srs_template.doc",
     "README.md",
-    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-0-induccion/Taller. AA4-EV02 - Mi Programa de formación.pdf",
-    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-0-induccion/Infografía. AA1-EV01.pdf",
-    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-0-induccion/Cuadro sinóptico. AA4-EV01.pdf",
-    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-0-induccion/Crucigrama. AA3-EV01.pdf",
-    "gen-lang-client.json",
-    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)",
-    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/actividades-extra"
+    "Recursos",
+    "testing-canvas.canvas",
+    "testing template.md",
+    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-1-analisis/notas/02-18-2026 - Introducción a Fase de Análisis.md",
+    "ANALISIS Y DESARROLLO DE SOFTWARE (3388962)/fase-1-analisis/evidencias"
   ]
 }
